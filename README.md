@@ -1,6 +1,6 @@
 # How to Create a Mind Map Using the Vue Diagram
 
-A quick start Vue project that shows how to create a mind map layout using the Syncfusion [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-mindmap-sample) component. This project includes code snippets for customizing the nodes and connectors in the layout and changing its orientation. It also contains code to align the layout using horizontal and vertical spacing and to add expand and collapse icons.
+A quick start Vue project that shows how to create a mind map layout using the Syncfusion&reg; [Vue Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-mindmap-sample) component. This project includes code snippets for customizing the nodes and connectors in the layout and changing its orientation. It also contains code to align the layout using horizontal and vertical spacing and to add expand and collapse icons.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-create-a-mind-map-using-the-vue-diagram 
 
